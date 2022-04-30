@@ -1,5 +1,5 @@
 ---
 layout: page
-title: International Society for Music Information Retrieval
+title: International Conference on Bioprocess for Sustainable Environment and Energy
 ---
 # Coming Soon

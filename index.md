@@ -1,6 +1,6 @@
 ---
 layout: default
-title: International Society for Music Information Retrieval
+title: International Conference on Bioprocess for Sustainable Environment and Energy
 ---
 ### 2nd International Conference on
 # Bioprocess for Sustainable Environment and Energy
