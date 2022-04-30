@@ -8,7 +8,7 @@ title: International Conference on Bioprocess for Sustainable Environment and En
 # Call for Papers
 <br>
 
-2nd International Conference on Bioprocess for Sustainable Environment and Energy (ICBSEE 2020). Original, unpublished research papers from all viewpoints, including theory, practice, experimentation, and review papers highlighting specific research domains for presentation in the technical sessions of the conference are invited from researchers, academicians, and professionals throughout the globe.
+2nd International Conference on Bioprocess for Sustainable Environment and Energy (ICBSEE 2022). Original, unpublished research papers from all viewpoints, including theory, practice, experimentation, and review papers highlighting specific research domains for presentation in the technical sessions of the conference are invited from researchers, academicians, and professionals throughout the globe.
 
 #### Submit your abstract at icbsee@gmail.com.
 
