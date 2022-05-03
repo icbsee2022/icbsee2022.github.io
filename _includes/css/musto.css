@@ -4,7 +4,7 @@
 
 
 body{
-    background-color: rgb(233, 236, 239);
+    background-color: rgb(255, 255, 255);
 }
 
 h1{
@@ -84,7 +84,7 @@ footer {
 
 .maincont{
     font-family: 'Lato', sans-serif;
-    background-color: rgb(233, 236, 239);
+    background-color: rgb(255, 255, 255);
     padding-left: 14vw;
     padding-right: 10vw;
     margin-bottom: 0%;
@@ -109,7 +109,7 @@ header{
     background-size: 80vw 50vh;
     margin: 0 auto;
     background-repeat: no-repeat;
-    background-color: rgb(233, 236, 239);
+    background-color: rgb(255, 255, 255);
     background-image: url("../../assets/banner_chariot_cropped.png");
 } */
 
@@ -682,7 +682,7 @@ button{
 .topnav {
     padding-left: 14vw;
     overflow: hidden;
-    background-color: rgb(233, 236, 239);
+    background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     padding-right: 7vw;
 }

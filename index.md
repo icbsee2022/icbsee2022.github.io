@@ -30,7 +30,11 @@ ICBSEE-India-2022 provides the combined arena of government-academia-industry to
     </tr>
     <tr class="mubx">
         <td>Abstract submission deadline</td>
-        <td> Jan 31, 2022 </td>
+        <td> April 30, 2022 </td>
+    </tr>
+    <tr class="mubx">
+        <td>Extended Abstract submission deadline</td>
+        <td> May 7, 2022 </td>
     </tr>
     <tr class="mubx">
         <td>Abstract acceptance</td>
