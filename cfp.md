@@ -18,7 +18,7 @@ title: International Conference on Bioprocess for Sustainable Environment and En
     <tr>
         <td><img class = "jour" src = "assets\images\biodeterioration&biodegradation.png"></td>
         <td><img class = "jour" src = "assets\images\SN.png"></td>
-        <td><img class = "jour" src = "assets\images\biodeterioration&biodegradation.png"></td>
+        <td><img class = "jour" src = "assets\images\Enviromental science and pollution research.png"></td>
     </tr>
 </table>
 
