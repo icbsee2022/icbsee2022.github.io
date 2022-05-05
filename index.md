@@ -2,11 +2,7 @@
 layout: default
 title: International Conference on Bioprocess for Sustainable Environment and Energy
 ---
-<<<<<<< HEAD
-### 3nd International Conference on
-=======
 ### 3rd International Conference on
->>>>>>> ab1c638b10f83d237f508778fb5b4467734678d9
 # Bioprocess for Sustainable Environment and Energy
 ### [ICBSEE-India-2022]
 ## 05 - 07 March
