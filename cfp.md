@@ -16,9 +16,9 @@ title: International Conference on Bioprocess for Sustainable Environment and En
 
 <table class = "jourlist">
     <tr>
-        <td><img class = "jour" src = "https://sites.google.com/site/2018icbseecopy/_/rsrc/1535739313822/call-for-papers/biodeterioration%26biodegradation.png"></td>
-        <td><img class = "jour" src = "https://sites.google.com/site/2018icbseecopy/_/rsrc/1579493398590/call-for-papers/SN.png"></td>
-        <td><img class = "jour" src = "https://sites.google.com/site/2018icbseecopy/_/rsrc/1579493357743/call-for-papers/Enviromental%20science%20and%20pollution%20research.png"></td>
+        <td><img class = "jour" src = "assets\images\biodeterioration&biodegradation.png"></td>
+        <td><img class = "jour" src = "assets\images\SN.png"></td>
+        <td><img class = "jour" src = "assets\images\biodeterioration&biodegradation.png"></td>
     </tr>
 </table>
 
