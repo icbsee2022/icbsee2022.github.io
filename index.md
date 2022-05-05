@@ -5,7 +5,7 @@ title: International Conference on Bioprocess for Sustainable Environment and En
 ### 3rd International Conference on
 # Bioprocess for Sustainable Environment and Energy
 ### [ICBSEE-India-2022]
-## 05 - 07 March
+## 20 - 24 June
 <br>
 <p style="text-align:center;">ICBSEE-India-2022 will enlighten the field of Energy-Environment-Bioprocess. The main theme of the conference is “Bioprocess: From Research to Real Life" which covers a wide range of critically important sessions. ICBSEE-India-2022 would provide a platform for the interaction between the Scientist communities around the world and aims in establishing pollution free sustainable environment by accelerating the cutting edge Bioprocess Technologies.
 <br>
