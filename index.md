@@ -19,7 +19,7 @@ ICBSEE-India-2022 provides the combined arena of government-academia-industry to
         <td>Abstract Submission is Open Now</td>
     </tr>
     <tr class="mubx">
-        <td>There is an opportunity for International students to participate via e-presentation. Limited papers will be selected for e-presentation, the deadline of abstract submission for e-presentation is 31st January 2022. Registration fees for e-presentation: 50 USD</td>
+        <td>There is an opportunity for International students to participate via e-presentation. Limited papers will be selected for e-presentation, the deadline of abstract submission for e-presentation is 7th May 2022. Registration fees for e-presentation: 50 USD</td>
     </tr>
 </table>
 
@@ -38,11 +38,11 @@ ICBSEE-India-2022 provides the combined arena of government-academia-industry to
     </tr>
     <tr class="mubx">
         <td>Abstract acceptance</td>
-        <td> Jan 31, 2022 </td>
+        <td> May 10, 2022 </td>
     </tr>
     <tr class="mubx">
         <td>Early Bird Registration</td>
-        <td> Jan 31, 2022 </td>
+        <td> May 15, 2022 </td>
     </tr>
 </table>
 

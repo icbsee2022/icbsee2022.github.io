@@ -868,6 +868,7 @@ a:first-child:hover{
 .mubx{
     background-color: rgb(255, 255, 255);
     text-align: left;
+    font-size: 1em;
 }
 
 .mubx td{
