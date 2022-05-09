@@ -114,7 +114,7 @@ header{
 } */
 
 .headline{
-    background-image: url("assets\images\Banner.png");
+    background-image: url("../../assets/images/Banner.png");
     /* background-color: rgba(221, 221, 221, 1); */
     background-position: center;
     background-size: contain;
